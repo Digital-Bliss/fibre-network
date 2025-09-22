@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Onitel-network",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": "Untitled Path", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ 28.186274782644219, -26.069034240812169, 0.0 ], [ 28.186199507302561, -26.068986817807481, 0.0 ], [ 28.18613914212958, -26.068060523489649, 0.0 ], [ 28.18607034624765, -26.06718191671246, 0.0 ], [ 28.186056415547309, -26.066904277877821, 0.0 ], [ 28.18606875106002, -26.066256506950619, 0.0 ], [ 28.186049936966121, -26.066043902871758, 0.0 ], [ 28.185965099141761, -26.065409701049958, 0.0 ], [ 28.185890974079548, -26.06487554180336, 0.0 ], [ 28.185798529269359, -26.064571778366211, 0.0 ] ] } }
+]
+}
